@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/machinistswissknife/static/css/main.073c9b0a.css",
-    "main.js": "/machinistswissknife/static/js/main.3bad4e42.js",
+    "main.js": "/machinistswissknife/static/js/main.89c398be.js",
     "static/js/787.28cb0dcd.chunk.js": "/machinistswissknife/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.svg": "/machinistswissknife/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/machinistswissknife/index.html",
     "main.073c9b0a.css.map": "/machinistswissknife/static/css/main.073c9b0a.css.map",
-    "main.3bad4e42.js.map": "/machinistswissknife/static/js/main.3bad4e42.js.map",
+    "main.89c398be.js.map": "/machinistswissknife/static/js/main.89c398be.js.map",
     "787.28cb0dcd.chunk.js.map": "/machinistswissknife/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3bad4e42.js"
+    "static/js/main.89c398be.js"
   ]
 }
